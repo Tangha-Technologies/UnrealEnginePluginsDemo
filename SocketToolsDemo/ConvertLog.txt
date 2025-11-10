@@ -1,0 +1,19 @@
+========== 转换日志 (Fri 11/07/2025 22:44:27.21) ========== 
+ 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\NetworkUtils.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\SocketToolsModule.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\TcpClientComp.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\TcpServerComp.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\UdpClientComp.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\UdpServerComp.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\NetworkUtils.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\SocketToolsModule.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\TcpClientComp.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\TcpServerComp.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\UdpClientComp.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Plugins\SocketTools\Source\UdpServerComp.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Source\SocketToolsDemo\SocketToolsDemo.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Source\SocketToolsDemo\SocketToolsDemoGameModeBase.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Source\SocketToolsDemo\SocketToolsDemo.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SocketToolsDemo\Source\SocketToolsDemo\SocketToolsDemoGameModeBase.cpp 
+ 

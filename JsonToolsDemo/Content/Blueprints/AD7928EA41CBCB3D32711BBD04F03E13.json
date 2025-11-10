@@ -1,0 +1,23 @@
+{
+	"userUniqueId": "AD7928EA41CBCB3D32711BBD04F03E13",
+	"allRecordData": [
+		{
+			"voiceId": 1,
+			"recordDate": "2025.11.07-16.18.03",
+			"voiceLength": 2195,
+			"localStorePath": "E:/4R-Entertainment/Selves-Development/Saved/Voice/AD7928EA41CBCB3D32711BBD04F03E13-1.wav"
+		},
+		{
+			"voiceId": 2,
+			"recordDate": "2025.11.07-16.18.10",
+			"voiceLength": 1998,
+			"localStorePath": "E:/4R-Entertainment/Selves-Development/Saved/Voice/AD7928EA41CBCB3D32711BBD04F03E13-2.wav"
+		},
+		{
+			"voiceId": 3,
+			"recordDate": "2025.11.07-16.18.13",
+			"voiceLength": 1210,
+			"localStorePath": "E:/4R-Entertainment/Selves-Development/Saved/Voice/AD7928EA41CBCB3D32711BBD04F03E13-3.wav"
+		}
+	]
+}
